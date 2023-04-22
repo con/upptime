@@ -15,7 +15,7 @@ sites:
   - name: neuro.debian.net
     url: https://neuro.debian.net/
   - name: pymvpa.org
-    url: https://pymvpa.org/
+    url: http://pymvpa.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
