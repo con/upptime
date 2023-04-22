@@ -113,18 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pymvpa.org.ico",
     "slug": "pymvpa-org",
     "status": "up",
-    "uptime": "1.93%",
-    "uptimeDay": "1.93%",
-    "uptimeWeek": "1.93%",
-    "uptimeMonth": "1.93%",
-    "uptimeYear": "1.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 572,
     "timeDay": 572,
     "timeWeek": 572,
     "timeMonth": 572,
     "timeYear": 572,
-    "dailyMinutesDown": {
-      "2023-04-22": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
