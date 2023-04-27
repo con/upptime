@@ -34,3 +34,12 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "20 3 * * *"
+  responseTime: "20 23 * * *"
+  staticSite: "20 4 * * *"
+  summary: "20 3 * * *"
+  updateTemplate: "20 3 * * *"
+  updates: "20 5 * * *"
+  uptime: "*/20 * * * *"
