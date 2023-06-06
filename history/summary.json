@@ -76,9 +76,9 @@
     "url": "https://dandiarchive.org/",
     "icon": "https://icons.duckduckgo.com/ip3/dandiarchive.org.ico",
     "slug": "dandiarchive-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 202,
     "timeMonth": 217,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   },
   {
     "name": "neuro.debian.net",
