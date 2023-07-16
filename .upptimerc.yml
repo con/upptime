@@ -16,6 +16,8 @@ sites:
     url: https://neuro.debian.net/
   - name: pymvpa.org
     url: http://pymvpa.org/
+  - name: singularity-hub.org archive API
+    url: http://singularity-hub.org/api/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
