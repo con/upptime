@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/centerforopenneuroscience.org.ico",
     "slug": "centerforopenneuroscience-org",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 327,
-    "timeDay": 179,
-    "timeWeek": 282,
-    "timeMonth": 319,
+    "timeDay": 233,
+    "timeWeek": 283,
+    "timeMonth": 318,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-08-08": 1
+      "2023-08-08": 38
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://datasets.datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/datasets.datalad.org.ico",
     "slug": "datasets-datalad-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 244,
-    "timeDay": 452,
-    "timeWeek": 288,
-    "timeMonth": 249,
+    "timeDay": 340,
+    "timeWeek": 281,
+    "timeMonth": 248,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 38
     }
   },
   {
