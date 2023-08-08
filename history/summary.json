@@ -6,8 +6,8 @@
     "slug": "centerforopenneuroscience-org",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
@@ -15,7 +15,9 @@
     "timeWeek": 282,
     "timeMonth": 319,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 1
+    }
   },
   {
     "name": "datalad.org",
@@ -42,9 +44,9 @@
     "url": "https://datasets.datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/datasets.datalad.org.ico",
     "slug": "datasets-datalad-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 288,
     "timeMonth": 249,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "store.datalad.org",
