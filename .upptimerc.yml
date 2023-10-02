@@ -12,6 +12,8 @@ sites:
     url: https://store.datalad.org/
   - name: dandiarchive.org
     url: https://dandiarchive.org/
+  - name: hub.dandiarchive.org
+    url: https://hub.dandiarchive.org
   - name: neuro.debian.net
     url: https://neuro.debian.net/
   - name: pymvpa.org
