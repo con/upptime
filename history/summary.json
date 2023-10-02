@@ -103,19 +103,19 @@
     "url": "https://hub.dandiarchive.org",
     "icon": "https://icons.duckduckgo.com/ip3/hub.dandiarchive.org.ico",
     "slug": "hub-dandiarchive-org",
-    "status": "down",
-    "uptime": "84.76%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "84.76%",
-    "uptimeMonth": "84.76%",
-    "uptimeYear": "84.76%",
-    "time": 282,
-    "timeDay": 282,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "status": "up",
+    "uptime": "79.92%",
+    "uptimeDay": "79.92%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "79.92%",
+    "time": 377,
+    "timeDay": 377,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-10-02": 25
+      "2023-10-02": 35
     }
   },
   {
