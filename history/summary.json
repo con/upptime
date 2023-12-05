@@ -106,11 +106,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hub.dandiarchive.org.ico",
     "slug": "hub-dandiarchive-org",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 357,
     "timeDay": 316,
     "timeWeek": 345,
@@ -150,9 +150,9 @@
     "url": "http://pymvpa.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pymvpa.org.ico",
     "slug": "pymvpa-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 510,
     "timeMonth": 498,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "singularity-hub.org archive API",
