@@ -150,19 +150,19 @@
     "url": "http://pymvpa.org/",
     "icon": "https://icons.duckduckgo.com/ip3/pymvpa.org.ico",
     "slug": "pymvpa-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 437,
-    "timeWeek": 510,
-    "timeMonth": 498,
-    "timeYear": 550,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 551,
+    "timeDay": 628,
+    "timeWeek": 549,
+    "timeMonth": 508,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 37
     }
   },
   {
