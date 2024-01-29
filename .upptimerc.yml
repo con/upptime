@@ -9,7 +9,7 @@ sites:
   - name: datasets.datalad.org
     url: https://datasets.datalad.org/
   - name: registry.datalad.org
-    url: https://registry.datalad.org/
+    url: http://registry.datalad.org/
   - name: store.datalad.org
     url: https://store.datalad.org/
   - name: dandiarchive.org
