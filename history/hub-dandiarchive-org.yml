@@ -1,7 +1,7 @@
 url: https://hub.dandiarchive.org
-status: up
-code: 200
-responseTime: 614
-lastUpdated: 2024-03-10T09:34:24.585Z
+status: down
+code: 503
+responseTime: 233
+lastUpdated: 2024-03-10T12:17:43.884Z
 startTime: 2023-10-02T20:40:07.712Z
 generator: Upptime <https://github.com/upptime/upptime>
