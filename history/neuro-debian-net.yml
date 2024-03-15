@@ -1,7 +1,7 @@
 url: https://neuro.debian.net/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-15T10:13:46.576Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2024-03-15T15:11:07.913Z
 startTime: 2023-04-22T04:41:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
