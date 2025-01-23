@@ -49,9 +49,9 @@
     "url": "https://datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/datalad.org.ico",
     "slug": "datalad-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.32%",
+    "uptimeDay": "98.31%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -61,6 +61,7 @@
     "timeMonth": 757,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2025-01-23": 0,
       "2025-01-22": 24,
       "2024-02-27": 97
     }
