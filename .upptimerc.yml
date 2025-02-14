@@ -12,6 +12,8 @@ sites:
     url: http://registry.datalad.org/
   - name: store.datalad.org
     url: https://store.datalad.org/
+  - name: hub.datalad.org
+    url: https://hub.datalad.org/
   - name: dandiarchive.org
     url: https://dandiarchive.org/
   - name: hub.dandiarchive.org
