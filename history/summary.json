@@ -101,7 +101,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry.datalad.org.ico",
     "slug": "registry-datalad-org",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -200,9 +200,9 @@
     "url": "https://hub.datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hub.datalad.org.ico",
     "slug": "hub-datalad-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -211,7 +211,9 @@
     "timeWeek": 667,
     "timeMonth": 682,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   },
   {
     "name": "dandiarchive.org",
