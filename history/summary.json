@@ -229,9 +229,9 @@
     "url": "https://hub.dandiarchive.org",
     "icon": "https://icons.duckduckgo.com/ip3/hub.dandiarchive.org.ico",
     "slug": "hub-dandiarchive-org",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.77%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -243,7 +243,8 @@
     "dailyMinutesDown": {
       "2025-10-06": 23,
       "2025-11-18": 44,
-      "2026-03-27": 191
+      "2026-03-27": 191,
+      "2026-07-26": 0
     }
   },
   {
