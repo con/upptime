@@ -113,17 +113,17 @@
     "url": "http://registry.datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/registry.datalad.org.ico",
     "slug": "registry-datalad-org",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.18%",
-    "time": 1114,
-    "timeDay": 662,
-    "timeWeek": 993,
-    "timeMonth": 1162,
-    "timeYear": 1253,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "89.07%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.16%",
+    "time": 1115,
+    "timeDay": 713,
+    "timeWeek": 978,
+    "timeMonth": 1153,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2025-08-22": 488,
       "2025-08-24": 316,
@@ -144,7 +144,7 @@
       "2026-05-04": 212,
       "2026-05-05": 72,
       "2026-08-10": 235,
-      "2026-08-11": 0
+      "2026-08-11": 157
     }
   },
   {
