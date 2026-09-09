@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/centerforopenneuroscience.org.ico",
     "slug": "centerforopenneuroscience-org",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.60%",
+    "uptimeDay": "91.56%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.68%",
     "time": 468,
     "timeDay": 23990,
     "timeWeek": 3787,
@@ -27,7 +27,7 @@
       "2026-04-04": 238,
       "2026-04-12": 109,
       "2026-04-20": 63,
-      "2026-09-09": 30
+      "2026-09-09": 122
     }
   },
   {
@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/datasets.datalad.org.ico",
     "slug": "datasets-datalad-org",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "78.31%",
-    "uptimeWeek": "96.90%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.60%",
+    "uptimeDay": "71.98%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.63%",
     "time": 288,
     "timeDay": 0,
     "timeWeek": 222,
@@ -101,7 +101,7 @@
       "2026-04-04": 236,
       "2026-04-12": 109,
       "2026-04-20": 63,
-      "2026-09-09": 312
+      "2026-09-09": 403
     }
   },
   {
@@ -110,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry.datalad.org.ico",
     "slug": "registry-datalad-org",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "78.65%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.05%",
+    "uptimeDay": "72.32%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "99.49%",
     "time": 1151,
     "timeDay": 0,
     "timeWeek": 1265,
@@ -138,7 +138,7 @@
       "2026-05-05": 72,
       "2026-08-10": 235,
       "2026-08-11": 157,
-      "2026-09-09": 307
+      "2026-09-09": 399
     }
   },
   {
@@ -147,11 +147,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.datalad.org.ico",
     "slug": "store-datalad-org",
     "status": "down",
-    "uptime": "95.51%",
-    "uptimeDay": "78.98%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.68%",
+    "uptime": "95.50%",
+    "uptimeDay": "72.65%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.66%",
     "time": 265,
     "timeDay": 0,
     "timeWeek": 230,
@@ -169,7 +169,7 @@
       "2026-04-04": 234,
       "2026-04-12": 108,
       "2026-04-20": 61,
-      "2026-09-09": 303
+      "2026-09-09": 394
     }
   },
   {
