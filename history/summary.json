@@ -31,9 +31,9 @@
     "url": "https://datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/datalad.org.ico",
     "slug": "datalad-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -66,7 +66,8 @@
       "2026-04-07": 49,
       "2026-04-16": 357,
       "2026-05-09": 79,
-      "2026-06-12": 256
+      "2026-06-12": 256,
+      "2026-10-21": 0
     }
   },
   {
@@ -75,7 +76,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/datasets.datalad.org.ico",
     "slug": "datasets-datalad-org",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
