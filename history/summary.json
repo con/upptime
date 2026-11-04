@@ -4,15 +4,15 @@
     "url": "https://centerforopenneuroscience.org/",
     "icon": "https://icons.duckduckgo.com/ip3/centerforopenneuroscience.org.ico",
     "slug": "centerforopenneuroscience-org",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.75%",
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.73%",
     "time": 465,
-    "timeDay": 185,
-    "timeWeek": 327,
+    "timeDay": 291,
+    "timeWeek": 336,
     "timeMonth": 410,
     "timeYear": 440,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2026-04-12": 109,
       "2026-04-20": 63,
       "2026-09-09": 332,
-      "2026-11-04": 3
+      "2026-11-04": 97
     }
   },
   {
@@ -33,18 +33,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hub.centerforopenneuroscience.org.ico",
     "slug": "hub-centerforopenneuroscience-org",
     "status": "down",
-    "uptime": "6.28%",
-    "uptimeDay": "6.28%",
-    "uptimeWeek": "6.28%",
-    "uptimeMonth": "6.28%",
-    "uptimeYear": "6.28%",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-04": 3
+      "2026-11-04": 100
     }
   },
   {
@@ -53,18 +53,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hedgedoc.centerforopenneuroscience.org.ico",
     "slug": "hedgedoc-centerforopenneuroscience-org",
     "status": "down",
-    "uptime": "7.19%",
-    "uptimeDay": "7.19%",
-    "uptimeWeek": "7.19%",
-    "uptimeMonth": "7.19%",
-    "uptimeYear": "7.19%",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
     "time": 247,
     "timeDay": 247,
     "timeWeek": 247,
     "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2026-11-04": 3
+      "2026-11-04": 99
     }
   },
   {
@@ -145,10 +145,10 @@
     "slug": "registry-datalad-org",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "93.22%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.51%",
     "time": 1365,
     "timeDay": 15736,
     "timeWeek": 4985,
@@ -170,7 +170,7 @@
       "2026-08-11": 157,
       "2026-09-09": 609,
       "2026-10-18": 225,
-      "2026-11-04": 1
+      "2026-11-04": 98
     }
   },
   {
