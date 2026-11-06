@@ -44,7 +44,7 @@
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2026-11-06": 655,
+      "2026-11-06": 766,
       "2026-11-05": 1440,
       "2026-11-04": 529
     }
@@ -66,7 +66,7 @@
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-11-06": 655,
+      "2026-11-06": 766,
       "2026-11-05": 1440,
       "2026-11-04": 529
     }
@@ -147,17 +147,17 @@
     "url": "http://registry.datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/registry.datalad.org.ico",
     "slug": "registry-datalad-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.73%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "95.72%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.46%",
-    "time": 1367,
-    "timeDay": 1073,
-    "timeWeek": 4549,
-    "timeMonth": 2624,
-    "timeYear": 1500,
+    "time": 1428,
+    "timeDay": 15643,
+    "timeWeek": 7116,
+    "timeMonth": 3390,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2025-12-17": 58,
       "2025-12-30": 25,
@@ -173,7 +173,8 @@
       "2026-08-11": 157,
       "2026-09-09": 609,
       "2026-10-18": 225,
-      "2026-11-04": 431
+      "2026-11-04": 431,
+      "2026-11-06": 0
     }
   },
   {
