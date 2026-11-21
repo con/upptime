@@ -44,7 +44,7 @@
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-11-21": 242,
+      "2026-11-21": 251,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
@@ -81,7 +81,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-11-21": 242,
+      "2026-11-21": 251,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
@@ -177,17 +177,17 @@
     "url": "http://registry.datalad.org/",
     "icon": "https://icons.duckduckgo.com/ip3/registry.datalad.org.ico",
     "slug": "registry-datalad-org",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "80.15%",
-    "uptimeWeek": "97.16%",
+    "uptimeDay": "80.00%",
+    "uptimeWeek": "97.14%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.27%",
-    "time": 1394,
-    "timeDay": 884,
-    "timeWeek": 1299,
-    "timeMonth": 3566,
-    "timeYear": 1669,
+    "time": 1444,
+    "timeDay": 10830,
+    "timeWeek": 4568,
+    "timeMonth": 4263,
+    "timeYear": 1743,
     "dailyMinutesDown": {
       "2025-12-17": 58,
       "2025-12-30": 25,
@@ -206,7 +206,7 @@
       "2026-11-04": 431,
       "2026-11-06": 424,
       "2026-11-08": 291,
-      "2026-11-21": 241,
+      "2026-11-21": 243,
       "2026-11-20": 45
     }
   },
@@ -336,17 +336,17 @@
     "url": "http://singularity-hub.org/api/",
     "icon": "https://icons.duckduckgo.com/ip3/singularity-hub.org.ico",
     "slug": "singularity-hub-org-archive-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 416,
-    "timeDay": 452,
-    "timeWeek": 406,
-    "timeMonth": 363,
-    "timeYear": 418,
+    "time": 477,
+    "timeDay": 15327,
+    "timeWeek": 4130,
+    "timeMonth": 1267,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2025-12-17": 56,
       "2025-12-30": 23,
@@ -355,7 +355,8 @@
       "2026-04-03": 344,
       "2026-04-04": 173,
       "2026-04-12": 107,
-      "2026-04-20": 59
+      "2026-04-20": 59,
+      "2026-11-21": 0
     }
   }
 ]
