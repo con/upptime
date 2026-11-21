@@ -1,7 +1,7 @@
 url: http://registry.datalad.org/
-status: down
-code: 503
-responseTime: 406
-lastUpdated: 2026-11-20T23:14:58.014Z
+status: up
+code: 200
+responseTime: 1362
+lastUpdated: 2026-11-21T04:00:50.464Z
 startTime: 2024-01-29T00:40:39.096Z
 generator: Upptime <https://github.com/upptime/upptime>
